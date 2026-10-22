@@ -1,0 +1,5 @@
+// Vitest Snapshot v1
+
+exports[`Snapshots and validity > Sample github-polyfill.js matches snapshot 1`] = `{}`;
+
+exports[`Snapshots and validity > Sample tock-loadable-component.js matches snapshot 1`] = `{}`;

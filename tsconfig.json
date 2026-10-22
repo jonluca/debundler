@@ -22,5 +22,5 @@
   },
   "compileOnSave": false,
   "exclude": ["node_modules", "dist"],
-  "include": ["src/**/*", "vite.config.ts"]
+  "include": ["src/**/*"]
 }
